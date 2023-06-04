@@ -1,0 +1,36 @@
+Create GUI of a Cooking Recipe
+
+Must Use
+	- QMenu
+	- QCheckBox
+	- QRadioButton
+	- QSlider
+	- QGRidlayout
+	- QBoxLayout
+	
+Also try to use most of the following: 
+
+      ✓	Virtual functions - fooditem.h line:12
+      ✓	template classes - unitconversion.h line:4
+	Multiple inheritance 
+      ✓	namespaces - mainwindow.cpp line:15
+	Programmer defined exceptions
+      ✓	Unions - quantity.h line:5
+	Operator overloading
+	Abstract classes 
+      ✓	Copy constructors (deep , shallow copy) - fooditem.cpp line:8
+	Bit structures - 
+	Advanced pre-processor directives
+      ✓	C++ Object Construction Sequence- mainwindow.cpp line:22
+      ✓	Initializer List - recipe.cpp line:4
+      ✓	C++ References - mainwindow.cpp line:215
+      ✓	Pointers - mainwindow.cpp line:25
+      ✓	Inheritance - fooditem.h line:20
+      ✓	Destructors - footitem.h line:25
+	Memory management
+      ✓	Header files (inclusion guards) - mainwindow.h line:1
+      ✓	Arrays and pointers - mainwindow.cpp line:43
+      ✓	Friendship - fooditem.h line:28
+      ✓	Global variables - mainwindow.cpp line:187
+      ✓	Private, Public, Protected - mianwindow.h
+	
